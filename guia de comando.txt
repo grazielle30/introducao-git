@@ -1,0 +1,9 @@
+git init ->vai ciar o repertorio local
+
+git remote add origin 'link do github'
+
+git add . (criar os arquivos que preciso)
+
+git commit -m "mensagem do commit"
+
+git push oririn main 
