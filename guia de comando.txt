@@ -7,3 +7,7 @@ git add . (criar os arquivos que preciso)
 git commit -m "mensagem do commit"
 
 git push oririn main 
+
+agora estamos na branch nova
+
+git checkout -b dev
